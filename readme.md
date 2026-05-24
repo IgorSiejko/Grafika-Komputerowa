@@ -1,0 +1,1 @@
+Trójwymiarowy, eksplodujący wulkan. Na scenie powinien znajdować się trójwymiarowy wulkan, którego co chwila wydobywa się lawa, dym i kamienie. Do lawy i dymu można użyć systemu cząstek. Scenę powinno dać się oglądać z dowolnego punktu. Eksplozji powinny również towarzyszyć odpowiednie efekty świetlne.
